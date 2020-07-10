@@ -1,0 +1,3 @@
+# WebScrape-GUI-in-Java
+A Web Scrape GUI that allows you to access information about the Coronavirus as well as updates in the major stock indices. I picked these two areas to web scrape because these are subjects that are discussed daily and it would be cool to show both in one easy Java GUI.
+The GUI should be extremely easy to understand and use. The whole goal of my project was to understand how to pull information from websites and display that in a clean manner for all to see. The project took me a few days but I learned a lot about this subject and more about Java's vast resources to make sure I could excel in creating this project. 
